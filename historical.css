@@ -1,0 +1,11 @@
+.header-img {
+    width: 100%;
+    height: 300px;
+    background: url('https://i.pinimg.com/originals/37/90/2e/37902ee1a0e2f003169f887d440ee2ae.png');
+    background-size: contain;
+  }
+
+  table, th, td {
+    border: 2px solid rgb(194, 103, 103);
+    border-spacing: 5px;
+  }
